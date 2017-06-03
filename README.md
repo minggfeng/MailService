@@ -4,10 +4,10 @@ The project description
 
 ## Team
 
-- teamMember
-- teamMember
-- teamMember
-- teamMember
+- Ali Elgiadi
+- Kriz Cortes
+- Oliver Ullman
+- Ming Feng
 
 ## Roadmap
 
